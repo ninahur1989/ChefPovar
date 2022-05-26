@@ -1,0 +1,15 @@
+Banana have price: 40 
+ calories:100 
+ and status: 
+MiddlePriceExotic have price: 951 
+ calories:206 
+ and status: 
+BestialityFood have price: 3610 
+ calories:2135 
+ and status: 
+HighPriceExotic have price: 1372 
+ calories:144 
+ and status: 
+SeaFood have price: 65123 
+ calories:1899 
+ and status: 
